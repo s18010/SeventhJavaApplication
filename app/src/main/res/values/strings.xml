@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Sightseeing</string>
+    <string name="shibuya">渋谷</string>
+    <string name="meijiJingu">明治神宮</string>
+    <string name="yoyogi">代々木公園</string>
+</resources>
